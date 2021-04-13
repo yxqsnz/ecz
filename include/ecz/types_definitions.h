@@ -1,0 +1,32 @@
+#include "./includes.h"
+#define String char *
+#define String std::string
+#define Int int
+#define Integer int
+#define Boolean bool
+#define Array std::array
+#define Char char
+#define Print printf
+#define StringLength strlen
+#define Len sizeof
+#define Return return
+#define Inline inline
+#define False false
+#define True  true
+#define Zero  0
+#define One 1
+#define Two  2
+#define Three  3
+#define Four  4
+#define Five  5
+#define Six  6
+#define Seven  7
+#define Eight  8
+#define Nine  9
+#define Ten  10
+#define ConsoleOutput std::cout
+#define Function void
+#define Variable auto
+#define In :
+#define toString std::to_string
+#define endLine ;

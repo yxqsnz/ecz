@@ -1,0 +1,7 @@
+#include "iostream"
+#include "string"
+#include "stdio.h"
+#include "vector"
+#include "array"
+#include "fstream"
+#include "locale"
