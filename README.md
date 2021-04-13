@@ -34,7 +34,7 @@ void Exit() {
 void SayHey() {
 	Println("Hey!");
 };
-
+#include "./path/to/ecz/ecz.h"
 Integer main() {
 
 	Menu SimpleMenu = Menu();
